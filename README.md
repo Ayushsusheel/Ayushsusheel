@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on building a profile that would be useful for all which contain various repo's...
+# 🔭 I’m currently working on building a profile that would be useful for all which contain various repo's...
 - 🌱 I’m currently pursuing B.Tech in CSE (Big Data)
 
 - 🤔 I’m looking for members that can contribute to a project on Big Data. 
