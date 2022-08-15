@@ -1,6 +1,12 @@
 <!DOCTYPE>
 <html>
-<h2><i>Hello....👋 </i><h2>
+<h2>
+<i>
+Hi 👋,
+I'm Ayush Susheel final year student currently pursuing B. Tech in CSE with specialization in Big Data from UPES, Dehradun.
+I'm looking for an opportunity where I can be a valuable asset for an organization to work in & able to provide optimal solutions & work with the team to come up with new ideas to complete the tasks 
+assigned with better results. 
+</i><h2>
 
 <!--
 **Ayushsusheel/Ayushsusheel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
