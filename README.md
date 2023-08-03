@@ -17,7 +17,9 @@ assigned with better results.
 
 
 
-### 🔭 Maintaing a Open Source Contribution Profile which consists of some repos (development,installation issues etc...) <br> 
+### 🔭 Maintaing an Open Source Contribution Profile which consists
+###    of some repos (development,installation issues etc...) <br> 
+
 ### 🌱 Completed B.Tech in CSE (Big Data)
 
 <!----### 🤔 I’m looking for members that can contribute to a project on Big Data.--> 
