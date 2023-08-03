@@ -5,7 +5,7 @@
 Hi 👋,
 <h6> 
 Hi,
-I'm Ayush Susheel, a final year student.
+I'm Ayush Susheel, a final year student.<br>
 My area of interest is in the Software Development field and currently 
 I'm looking for an opportunity where I can be a valuable asset for an organization to work in & able to provide optimal solutions, work with the team to come up with new ideas and complete the tasks 
 assigned with better results.
