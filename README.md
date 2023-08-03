@@ -6,8 +6,8 @@ Hi 👋,
 <h6> 
 Hi,
 I'm Ayush Susheel, a final year student.<br>
-My area of interest is in the Software Development field and currently 
-I'm looking for an opportunity where I can be a valuable asset for an organization to work in & able to provide optimal solutions, work with the team to come up with new ideas and complete the tasks 
+My area of interest is in the Software Development field and currently<br>
+I'm looking for an opportunity where I can be a valuable asset for an organization to work in &<br> able to provide optimal solutions, <br>work with the team to come up with new ideas and complete the tasks<br> 
 assigned with better results.
  </h6>
 </i><h2>
@@ -17,7 +17,7 @@ assigned with better results.
 
 
 
-<!--### 🔭 I’m currently working on building a profile that would be useful for 
+<!--### 🔭 I’m currently working on building a profile that would be useful for<br> 
 ### 🌱 I’m currently pursuing B.Tech in CSE (Big Data)
 
 <!----### 🤔 I’m looking for members that can contribute to a project on Big Data.--> 
