@@ -1,4 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HI + I'M + AYUSH + SUSHEEL;height=100;width=100)](https://git.io/typing-svg)
 <!DOCTYPE>
 <html>
 <h2>
@@ -9,13 +8,13 @@ Hi 👋,
 My area of interest is in the Software Development field and currently<br>
 I'm looking for an opportunity where I can be a valuable asset for an organization to work in &<br> able to provide optimal solutions, <br>work with the team to come up with new ideas and complete the tasks<br> 
 assigned with better results.
- </h6>
+</h6>
 </b></i><h2>
 
 <!--
 **Ayushsusheel/Ayushsusheel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HI + I'M + AYUSH + SUSHEEL;height=100;width=100)](https://git.io/typing-svg)
 
 ### 🔭 Maintaing an Open Source Contribution Profile which consists
 ###    of some repos (development,installation issues etc...) <br> 
