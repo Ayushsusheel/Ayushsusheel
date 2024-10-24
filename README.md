@@ -1,10 +1,9 @@
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HI + I'M + AYUSH + SUSHEEL)height=100;width=100](https://git.io/typing-svg)
 <!DOCTYPE>
 <html>
 <h2>
 <b><i>
 Hi 👋,
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HI + I'M + AYUSH + SUSHEEL)height=100;width=100](https://git.io/typing-svg)
 <h6> 
 <br>
 My area of interest is in the Software Development field and currently<br>
