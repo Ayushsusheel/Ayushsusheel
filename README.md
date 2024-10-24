@@ -25,6 +25,11 @@ assigned with better results.
 <!----### 🤔 I’m looking for members that can contribute to a project on Big Data.--> 
 ### 📫 How to reach me: https://www.linkedin.com/in/ayush-susheel-672b13190/
 <img src ="https://github-readme-stats.vercel.app/api?username=AyushSusheel&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+[![Typing SVG](https://readme-typing-svg.demolab.com/?i, i'm ayush=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
+
+
+
 
                               
                                     
