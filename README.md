@@ -1,11 +1,12 @@
+
 <!DOCTYPE>
 <html>
 <h2>
 <b><i>
 Hi 👋,
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HI + I'M + AYUSH + SUSHEEL)height=100;width=100](https://git.io/typing-svg)
 <h6> 
-Hi,
-I'm Ayush Susheel,<br>
+<br>
 My area of interest is in the Software Development field and currently<br>
 I'm looking for an opportunity where I can be a valuable asset for an organization to work in &<br> able to provide optimal solutions, <br>work with the team to come up with new ideas and complete the tasks<br> 
 assigned with better results.
@@ -25,8 +26,6 @@ assigned with better results.
 <!----### 🤔 I’m looking for members that can contribute to a project on Big Data.--> 
 ### 📫 How to reach me: https://www.linkedin.com/in/ayush-susheel-672b13190/
 <img src ="https://github-readme-stats.vercel.app/api?username=AyushSusheel&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HI+I'M+AYUSH+SUSHEEL)](https://git.io/typing-svg)
 
 
 
