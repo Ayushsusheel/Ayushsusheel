@@ -40,6 +40,9 @@ Hi 👋,
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ayushsusheel&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushsusheel&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+# GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Ayushsusheel)](https://git.io/streak-stats)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ayushsusheel&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
